@@ -1,0 +1,41 @@
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Bot Application.dll.config
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Bot Application.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Bot Application.pdb
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Autofac.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Chronic.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.Bot.Builder.Autofac.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.Bot.Builder.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.Bot.Connector.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.Rest.ClientRuntime.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.WindowsAzure.Configuration.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Newtonsoft.Json.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.Net.Http.Formatting.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.Web.Http.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.Web.Http.WebHost.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Autofac.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.Bot.Builder.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.Bot.Builder.Autofac.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.Bot.Connector.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Microsoft.WindowsAzure.Configuration.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\Newtonsoft.Json.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.IdentityModel.Tokens.Jwt.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.Net.Http.Formatting.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.Web.Http.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\System.Web.Http.WebHost.xml
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\ar\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\cs\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\en\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\es\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\fa\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\fr\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\ja\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\ru\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\obj\Debug\Projeto Final.csprojResolveAssemblyReference.cache
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\obj\Debug\Projeto Final.csproj.CoreCompileInputs.cache
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\obj\Debug\Bot Application.dll
+C:\Users\mathe\source\repos\Maratona Bots\Projeto Final\obj\Debug\Bot Application.pdb
